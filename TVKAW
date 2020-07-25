@@ -321,13 +321,4 @@ http://node7.homelinux.com:80/youtube/123456/71932
 http://node7.homelinux.com:80/youtube/123456/71933
 #EXTINF:-1,TV BAIANA (CULTURA BA)
 http://node7.homelinux.com:80/youtube/123456/71934
-#EXTINF:-1,SUMMER TV
-http://node7.homelinux.com:80/youtube/123456/71935
-#EXTINF:-1,TV PADRE CICERO
-http://node7.homelinux.com:80/youtube/123456/71936
-#EXTINF:-1,CNN BRASIL HD
-http://node7.homelinux.com:80/youtube/123456/72752
-#EXTINF:-1,GLOBO RJ HD
-http://node7.homelinux.com:80/youtube/123456/72755
-#EXTINF:-1,TV RIO SUL HD
-http://node7.homelinux.com:80/youtube/123456/72757
+
